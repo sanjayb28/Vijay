@@ -6,6 +6,6 @@ cout<<"Enter first number:";
 cin>>n1;
 cout<<"Enter second number:";
 cin>>n2;
-cout<<"Sum="<<n1+n2;
+cout<<"Sum of two numbers is ="<<n1+n2;
 return 0;
 }
